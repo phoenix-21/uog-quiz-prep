@@ -49,25 +49,26 @@ export default function QuizPage() {
   const progress = ((TIME_PER_QUESTION - time) / TIME_PER_QUESTION) * 100;
 
   return (
-    <div className="min-h-screen flex items-center justify-center px-4">
-      <div className="w-full max-w-xl bg-white p-6 rounded-2xl shadow-sm border">
+    <div className="min-h-screen flex items-center justify-center px-4 bg-gradient-to-br from-slate-50 to-slate-100">
+      
+      <div className="w-full max-w-xl bg-white p-8 rounded-2xl shadow-md border fade-in">
 
-        {/* Counter */}
-        <div className="flex justify-between text-sm text-gray-500 mb-2">
-          <span>Question</span>
-          <span>{current + 1}/{total}</span>
+        {/* Header */}
+        <div className="flex justify-between items-center mb-3 text-sm text-slate-500">
+          <span className="font-medium tracking-wide">Academic Quiz</span>
+          <span className="font-semibold">{current + 1}/{total}</span>
         </div>
 
-        {/* Timer Bar */}
-        <div className="w-full h-2 bg-gray-200 rounded overflow-hidden mb-6">
+        {/* Timer */}
+        <div className="w-full h-2 bg-slate-200 rounded overflow-hidden mb-6">
           <div
-            className="h-full bg-black transition-all duration-1000 linear"
+            className="h-full bg-slate-800 timer-bar"
             style={{ width: `${progress}%` }}
           />
         </div>
 
         {/* Question */}
-        <h2 className="text-lg font-semibold mb-6">
+        <h2 className="text-lg font-semibold mb-6 text-slate-800 fade-in">
           {q.question}
         </h2>
 
@@ -77,7 +78,7 @@ export default function QuizPage() {
             <button
               key={index}
               onClick={() => nextQuestion(opt)}
-              className="w-full text-left px-4 py-3 border rounded-lg hover:bg-black hover:text-white transition"
+              className="option-btn w-full text-left px-4 py-3 border border-slate-200 rounded-lg bg-white hover:bg-slate-800 hover:text-white"
             >
               {opt}
             </button>
