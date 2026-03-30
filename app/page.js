@@ -5,7 +5,7 @@ import QUESTIONS from "../data/questions.json";
 const TIME_PER_QUESTION = 10;
 
 export default function QuizPage() {
-  const [started, setStarted] = useState(false); // 🔥 NEW
+  const [started, setStarted] = useState(false);
   const [current, setCurrent] = useState(0);
   const [time, setTime] = useState(TIME_PER_QUESTION);
   const [answers, setAnswers] = useState([]);
@@ -13,7 +13,7 @@ export default function QuizPage() {
   const total = QUESTIONS.length;
   const q = QUESTIONS[current];
 
-  // Timer only runs AFTER quiz starts
+  // Timer (runs only after start)
   useEffect(() => {
     if (!started) return;
 
@@ -79,26 +79,30 @@ export default function QuizPage() {
 
   // 🟢 QUIZ SCREEN
   return (
-    <div className="min-h-screen flex items-center justify-center px-4 bg-slate-50">
+    <div className="min-h-screen flex items-center justify-center px-4 bg-gradient-to-br from-slate-50 to-slate-100">
 
       <div className="w-full max-w-xl bg-white p-8 rounded-2xl shadow-md border fade-in">
 
         {/* Header */}
-        <div className="flex justify-between text-sm text-slate-500 mb-2">
-          <span>Question</span>
-          <span>{current + 1}/{total}</span>
+        <div className="flex justify-between items-center mb-3 text-sm text-slate-500">
+          <span className="font-medium">Academic Quiz</span>
+          <span className="font-semibold">{current + 1}/{total}</span>
         </div>
 
-        {/* Timer */}
+        {/* ✅ FIXED TIMER BAR (original smooth behavior) */}
         <div className="w-full h-2 bg-slate-200 rounded overflow-hidden mb-6">
           <div
-            className="h-full bg-slate-800 transition-all duration-1000 linear"
-            style={{ width: `${progress}%` }}
+            className="h-full bg-slate-800"
+            style={{
+              width: `${progress}%`,
+              transition: "width 1s linear",
+              boxShadow: "0 0 6px rgba(0,0,0,0.2)"
+            }}
           />
         </div>
 
         {/* Question */}
-        <h2 className="text-lg font-semibold mb-6 text-slate-800">
+        <h2 className="text-lg font-semibold mb-6 text-slate-800 fade-in">
           {q.question}
         </h2>
 
@@ -108,7 +112,7 @@ export default function QuizPage() {
             <button
               key={index}
               onClick={() => nextQuestion(opt)}
-              className="w-full text-left px-4 py-3 border rounded-lg hover:bg-slate-800 hover:text-white transition"
+              className="w-full text-left px-4 py-3 border border-slate-200 rounded-lg bg-white hover:bg-slate-800 hover:text-white transition transform hover:-translate-y-1"
             >
               {opt}
             </button>
