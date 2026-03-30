@@ -241,5 +241,65 @@
     "options": ["War ended", "Pakistan created", "British arrived", "Trade began"],
     "answer": "Pakistan created",
     "level": "hard"
+  },
+  {
+    "question": "Who coined the term 'Pakistan'?",
+    "options": ["Allama Iqbal", "Chaudhry Rahmat Ali", "Quaid-e-Azam", "Sir Syed Ahmad Khan"],
+    "answer": "Chaudhry Rahmat Ali",
+    "level": "hard"
+  },
+  {
+    "question": "In which document was the name 'Pakistan' first proposed?",
+    "options": ["Allahabad Address", "Now or Never Pamphlet", "Lahore Resolution", "Lucknow Pact"],
+    "answer": "Now or Never Pamphlet",
+    "level": "hard"
+  },
+  {
+    "question": "What was the main objective of the Cripps Mission (1942)?",
+    "options": ["Immediate independence", "Post-war dominion status", "Divide India", "Promote trade"],
+    "answer": "Post-war dominion status",
+    "level": "hard"
+  },
+  {
+    "question": "Why did the Cripps Mission fail?",
+    "options": ["Congress rejected it", "Muslim League rejected it", "Both rejected it", "British withdrew"],
+    "answer": "Both rejected it",
+    "level": "hard"
+  },
+  {
+    "question": "What was the Cabinet Mission Plan (1946)?",
+    "options": ["Plan for immediate partition", "Plan for united India with grouping", "Trade agreement", "Military alliance"],
+    "answer": "Plan for united India with grouping",
+    "level": "hard"
+  },
+  {
+    "question": "Why did the Cabinet Mission Plan fail?",
+    "options": ["Lack of British support", "Disagreement between Congress and League", "War outbreak", "Economic crisis"],
+    "answer": "Disagreement between Congress and League",
+    "level": "hard"
+  },
+  {
+    "question": "What was the main demand of Muslims in the 1945-46 elections?",
+    "options": ["Jobs", "Education", "Pakistan", "Trade rights"],
+    "answer": "Pakistan",
+    "level": "hard"
+  },
+  {
+    "question": "What role did elections of 1945-46 play?",
+    "options": ["Weak support for League", "Proved Muslim League as representative of Muslims", "Ended British rule", "Started war"],
+    "answer": "Proved Muslim League as representative of Muslims",
+    "level": "hard"
+  },
+  {
+    "question": "What was Mountbatten Plan (1947)?",
+    "options": ["Delay independence", "Partition India into two states", "Unite India", "Military rule"],
+    "answer": "Partition India into two states",
+    "level": "hard"
+  },
+  {
+    "question": "What was the ideological basis for Pakistan according to Quaid-e-Azam?",
+    "options": ["Economic growth", "Islamic principles", "Military strength", "Industrialization"],
+    "answer": "Islamic principles",
+    "level": "hard"
   }
 ]
