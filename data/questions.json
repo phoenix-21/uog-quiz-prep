@@ -1,17 +1,245 @@
 [
   {
-    "question": "What is the capital of France?",
-    "options": ["Berlin", "Madrid", "Paris", "Rome"],
-    "answer": "Paris"
+    "question": "What is an ideology?",
+    "options": ["A set of beliefs", "A type of government", "A law", "A book"],
+    "answer": "A set of beliefs",
+    "level": "easy"
   },
   {
-    "question": "Which language is used for web apps?",
-    "options": ["Python", "JavaScript", "C++", "Java"],
-    "answer": "JavaScript"
+    "question": "Ideology mainly influences a person's:",
+    "options": ["Height", "Thinking", "Age", "Weight"],
+    "answer": "Thinking",
+    "level": "easy"
   },
   {
-    "question": "2 + 2 = ?",
-    "options": ["3", "4", "5", "6"],
-    "answer": "4"
+    "question": "Which ideology led to the creation of Pakistan?",
+    "options": ["Capitalism", "Communism", "Two-Nation Theory", "Socialism"],
+    "answer": "Two-Nation Theory",
+    "level": "easy"
+  },
+  {
+    "question": "Who presented the Two-Nation Theory?",
+    "options": ["Allama Iqbal", "Sir Syed Ahmad Khan", "Liaquat Ali Khan", "Gandhi"],
+    "answer": "Sir Syed Ahmad Khan",
+    "level": "easy"
+  },
+  {
+    "question": "When did the War of Independence take place?",
+    "options": ["1857", "1947", "1905", "1930"],
+    "answer": "1857",
+    "level": "easy"
+  },
+  {
+    "question": "Who was the founder of Pakistan?",
+    "options": ["Allama Iqbal", "Quaid-e-Azam", "Nehru", "Gandhi"],
+    "answer": "Quaid-e-Azam",
+    "level": "easy"
+  },
+  {
+    "question": "What religion was the basis of Pakistan's ideology?",
+    "options": ["Hinduism", "Islam", "Christianity", "Buddhism"],
+    "answer": "Islam",
+    "level": "easy"
+  },
+  {
+    "question": "What does ideology provide to a nation?",
+    "options": ["Food", "Direction", "Money", "Weapons"],
+    "answer": "Direction",
+    "level": "easy"
+  },
+  {
+    "question": "Which movement aimed to protect Muslim rights after 1857?",
+    "options": ["Aligarh Movement", "Khilafat Movement", "Quit India Movement", "Swadeshi Movement"],
+    "answer": "Aligarh Movement",
+    "level": "easy"
+  },
+  {
+    "question": "Who founded the Aligarh Movement?",
+    "options": ["Sir Syed Ahmad Khan", "Iqbal", "Jinnah", "Nehru"],
+    "answer": "Sir Syed Ahmad Khan",
+    "level": "easy"
+  },
+
+  {
+    "question": "What was the main aim of the Aligarh Movement?",
+    "options": ["Political freedom", "Muslim education", "Trade", "War"],
+    "answer": "Muslim education",
+    "level": "average"
+  },
+  {
+    "question": "When was the All-India Muslim League established?",
+    "options": ["1906", "1911", "1930", "1940"],
+    "answer": "1906",
+    "level": "average"
+  },
+  {
+    "question": "Where was the Muslim League founded?",
+    "options": ["Delhi", "Lahore", "Dhaka", "Karachi"],
+    "answer": "Dhaka",
+    "level": "average"
+  },
+  {
+    "question": "What was the main objective of Muslim League?",
+    "options": ["Promote trade", "Protect Muslim interests", "Promote war", "Support British"],
+    "answer": "Protect Muslim interests",
+    "level": "average"
+  },
+  {
+    "question": "Who gave the Allahabad Address in 1930?",
+    "options": ["Jinnah", "Iqbal", "Sir Syed", "Gandhi"],
+    "answer": "Iqbal",
+    "level": "average"
+  },
+  {
+    "question": "What did Iqbal propose in 1930?",
+    "options": ["United India", "Separate Muslim state", "British rule", "No government"],
+    "answer": "Separate Muslim state",
+    "level": "average"
+  },
+  {
+    "question": "What was the Hindi-Urdu controversy about?",
+    "options": ["Language issue", "Religion issue", "Trade issue", "War issue"],
+    "answer": "Language issue",
+    "level": "average"
+  },
+  {
+    "question": "Which war weakened Muslims politically in India?",
+    "options": ["World War I", "1857 War", "World War II", "Cold War"],
+    "answer": "1857 War",
+    "level": "average"
+  },
+  {
+    "question": "What was the main cultural difference between Hindus and Muslims?",
+    "options": ["Food only", "Language only", "Religion and lifestyle", "Clothes only"],
+    "answer": "Religion and lifestyle",
+    "level": "average"
+  },
+  {
+    "question": "Which reform was introduced by Sir Syed?",
+    "options": ["Scientific education", "Military training", "Trade unions", "Farming"],
+    "answer": "Scientific education",
+    "level": "average"
+  },
+
+  {
+    "question": "What was the Lucknow Pact (1916)?",
+    "options": ["Agreement between Muslims and British", "Agreement between Congress and League", "War treaty", "Trade deal"],
+    "answer": "Agreement between Congress and League",
+    "level": "medium"
+  },
+  {
+    "question": "Why did Muslims later oppose Congress?",
+    "options": ["Religious differences", "Political dominance of Hindus", "Economic issues", "All of these"],
+    "answer": "All of these",
+    "level": "medium"
+  },
+  {
+    "question": "What was the Khilafat Movement?",
+    "options": ["Religious movement", "Political party", "Trade movement", "War"],
+    "answer": "Religious movement",
+    "level": "medium"
+  },
+  {
+    "question": "Who led the Khilafat Movement?",
+    "options": ["Ali Brothers", "Jinnah", "Iqbal", "Sir Syed"],
+    "answer": "Ali Brothers",
+    "level": "medium"
+  },
+  {
+    "question": "What was the impact of Congress ministries (1937-39)?",
+    "options": ["Muslims felt secure", "Muslims felt oppressed", "No impact", "British left India"],
+    "answer": "Muslims felt oppressed",
+    "level": "medium"
+  },
+  {
+    "question": "What was the Lahore Resolution (1940)?",
+    "options": ["Demand for independence", "Demand for separate Muslim states", "End of war", "Trade agreement"],
+    "answer": "Demand for separate Muslim states",
+    "level": "medium"
+  },
+  {
+    "question": "Where was Lahore Resolution passed?",
+    "options": ["Karachi", "Lahore", "Delhi", "Dhaka"],
+    "answer": "Lahore",
+    "level": "medium"
+  },
+  {
+    "question": "What role did Islam play in Muslim identity?",
+    "options": ["Minor role", "No role", "Central role", "Economic role"],
+    "answer": "Central role",
+    "level": "medium"
+  },
+  {
+    "question": "What was the main demand of Muslims after 1940?",
+    "options": ["Jobs", "Separate homeland", "Trade rights", "British support"],
+    "answer": "Separate homeland",
+    "level": "medium"
+  },
+  {
+    "question": "What is meant by socio-political dynamics?",
+    "options": ["Social and political changes", "Economic growth", "War tactics", "Religious laws"],
+    "answer": "Social and political changes",
+    "level": "medium"
+  },
+
+  {
+    "question": "How did British policies affect Muslims after 1857?",
+    "options": ["Favored them", "Ignored them", "Suppressed them", "Helped them"],
+    "answer": "Suppressed them",
+    "level": "hard"
+  },
+  {
+    "question": "Why did Sir Syed support British rule initially?",
+    "options": ["For power", "For Muslim progress", "For war", "For trade"],
+    "answer": "For Muslim progress",
+    "level": "hard"
+  },
+  {
+    "question": "What was the role of education in Muslim revival?",
+    "options": ["No role", "Minor role", "Key role", "Negative role"],
+    "answer": "Key role",
+    "level": "hard"
+  },
+  {
+    "question": "Why was Two-Nation Theory important?",
+    "options": ["Economic growth", "Separate identity", "War strategy", "Trade policy"],
+    "answer": "Separate identity",
+    "level": "hard"
+  },
+  {
+    "question": "How did cultural differences lead to Pakistan movement?",
+    "options": ["Same traditions", "Different identities", "Economic growth", "British support"],
+    "answer": "Different identities",
+    "level": "hard"
+  },
+  {
+    "question": "What was the main political concern of Muslims?",
+    "options": ["Minority rights", "Trade", "War", "Education only"],
+    "answer": "Minority rights",
+    "level": "hard"
+  },
+  {
+    "question": "What was Direct Action Day (1946)?",
+    "options": ["Peace movement", "Political protest", "Trade strike", "Religious festival"],
+    "answer": "Political protest",
+    "level": "hard"
+  },
+  {
+    "question": "What was the outcome of Direct Action Day?",
+    "options": ["Peace", "Riots", "British exit", "Unity"],
+    "answer": "Riots",
+    "level": "hard"
+  },
+  {
+    "question": "Why did Muslims reject united India?",
+    "options": ["Fear of domination", "Economic reasons", "Religious reasons", "All of these"],
+    "answer": "All of these",
+    "level": "hard"
+  },
+  {
+    "question": "What was the significance of 1947?",
+    "options": ["War ended", "Pakistan created", "British arrived", "Trade began"],
+    "answer": "Pakistan created",
+    "level": "hard"
   }
 ]
