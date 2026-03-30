@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import QUESTIONS from "../data/questions.json";
 
-const TIME_PER_QUESTION = 10;
+const TIME_PER_QUESTION = 30;
 
 export default function QuizPage() {
   const [started, setStarted] = useState(false);
