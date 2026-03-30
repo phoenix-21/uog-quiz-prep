@@ -1,305 +1,236 @@
 [
   {
-    "question": "What is an ideology?",
-    "options": ["A set of beliefs", "A type of government", "A law", "A book"],
-    "answer": "A set of beliefs",
+    "question": "Who was Sir Syed Ahmed Khan?",
+    "options": ["A poet", "A reformer and educator", "A soldier", "A trader"],
+    "answer": "A reformer and educator",
     "level": "easy"
   },
   {
-    "question": "Ideology mainly influences a person's:",
-    "options": ["Height", "Thinking", "Age", "Weight"],
-    "answer": "Thinking",
+    "question": "In which year was Sir Syed Ahmed Khan born?",
+    "options": ["1817", "1857", "1906", "1830"],
+    "answer": "1817",
     "level": "easy"
   },
   {
-    "question": "Which ideology led to the creation of Pakistan?",
-    "options": ["Capitalism", "Communism", "Two-Nation Theory", "Socialism"],
-    "answer": "Two-Nation Theory",
+    "question": "What major event influenced Sir Syed's work for Muslim progress?",
+    "options": ["World War I", "1857 War of Independence", "Partition of Bengal", "Lahore Resolution"],
+    "answer": "1857 War of Independence",
     "level": "easy"
   },
   {
-    "question": "Who presented the Two-Nation Theory?",
-    "options": ["Allama Iqbal", "Sir Syed Ahmad Khan", "Liaquat Ali Khan", "Gandhi"],
-    "answer": "Sir Syed Ahmad Khan",
-    "level": "easy"
-  },
-  {
-    "question": "When did the War of Independence take place?",
-    "options": ["1857", "1947", "1905", "1930"],
-    "answer": "1857",
-    "level": "easy"
-  },
-  {
-    "question": "Who was the founder of Pakistan?",
-    "options": ["Allama Iqbal", "Quaid-e-Azam", "Nehru", "Gandhi"],
-    "answer": "Quaid-e-Azam",
-    "level": "easy"
-  },
-  {
-    "question": "What religion was the basis of Pakistan's ideology?",
-    "options": ["Hinduism", "Islam", "Christianity", "Buddhism"],
-    "answer": "Islam",
-    "level": "easy"
-  },
-  {
-    "question": "What does ideology provide to a nation?",
-    "options": ["Food", "Direction", "Money", "Weapons"],
-    "answer": "Direction",
-    "level": "easy"
-  },
-  {
-    "question": "Which movement aimed to protect Muslim rights after 1857?",
-    "options": ["Aligarh Movement", "Khilafat Movement", "Quit India Movement", "Swadeshi Movement"],
+    "question": "Which movement did Sir Syed Ahmed Khan start for Muslim education?",
+    "options": ["Aligarh Movement", "Khilafat Movement", "Pakistan Movement", "Swadeshi Movement"],
     "answer": "Aligarh Movement",
     "level": "easy"
   },
   {
-    "question": "Who founded the Aligarh Movement?",
-    "options": ["Sir Syed Ahmad Khan", "Iqbal", "Jinnah", "Nehru"],
-    "answer": "Sir Syed Ahmad Khan",
+    "question": "What was the main aim of Sir Syed's educational reforms?",
+    "options": ["Military training", "Promotion of English and modern sciences", "Religious isolation", "Trade expansion"],
+    "answer": "Promotion of English and modern sciences",
     "level": "easy"
   },
-
   {
-    "question": "What was the main aim of the Aligarh Movement?",
-    "options": ["Political freedom", "Muslim education", "Trade", "War"],
-    "answer": "Muslim education",
+    "question": "Which university was founded by Sir Syed Ahmed Khan?",
+    "options": ["Aligarh Muslim University", "Delhi University", "Punjab University", "Lucknow University"],
+    "answer": "Aligarh Muslim University",
+    "level": "easy"
+  },
+  {
+    "question": "Why did Sir Syed emphasize modern scientific education for Muslims?",
+    "options": ["To compete with Hindus and British", "To ignore traditional culture", "To learn foreign languages only", "To migrate abroad"],
+    "answer": "To compete with Hindus and British",
+    "level": "easy"
+  },
+  {
+    "question": "What was Sir Syed’s stance towards British rule?",
+    "options": ["Opposition", "Cooperation for Muslim progress", "Neutral", "Revolutionary"],
+    "answer": "Cooperation for Muslim progress",
+    "level": "easy"
+  },
+  {
+    "question": "Which book did Sir Syed write to explain the Muslims' position after 1857?",
+    "options": ["The Aligarh Movement", "Asar-us-Sanadid", "The Loyal Mohammedans of India", "Pakistan: The Idea"],
+    "answer": "The Loyal Mohammedans of India",
     "level": "average"
   },
   {
-    "question": "When was the All-India Muslim League established?",
-    "options": ["1906", "1911", "1930", "1940"],
-    "answer": "1906",
+    "question": "Sir Syed believed Muslims should focus on:",
+    "options": ["Political agitation", "Economic and educational uplift", "Religious war", "Colonial trade"],
+    "answer": "Economic and educational uplift",
     "level": "average"
   },
   {
-    "question": "Where was the Muslim League founded?",
-    "options": ["Delhi", "Lahore", "Dhaka", "Karachi"],
-    "answer": "Dhaka",
+    "question": "Which reform did Sir Syed advocate for Muslim society?",
+    "options": ["Religious reform only", "Social, educational, and scientific reforms", "Trade monopolies", "Military training only"],
+    "answer": "Social, educational, and scientific reforms",
     "level": "average"
   },
   {
-    "question": "What was the main objective of Muslim League?",
-    "options": ["Promote trade", "Protect Muslim interests", "Promote war", "Support British"],
-    "answer": "Protect Muslim interests",
+    "question": "What role did Sir Syed play in creating a political voice for Muslims?",
+    "options": ["He started the Muslim League", "He encouraged separate political identity through education and debate", "He ignored politics", "He joined Congress"],
+    "answer": "He encouraged separate political identity through education and debate",
     "level": "average"
   },
   {
-    "question": "Who gave the Allahabad Address in 1930?",
-    "options": ["Jinnah", "Iqbal", "Sir Syed", "Gandhi"],
-    "answer": "Iqbal",
+    "question": "Which newspaper did Sir Syed launch to educate Muslims?",
+    "options": ["Tehzeeb-ul-Akhlaq", "Dawn", "Zamindar", "Comrade"],
+    "answer": "Tehzeeb-ul-Akhlaq",
     "level": "average"
   },
   {
-    "question": "What did Iqbal propose in 1930?",
-    "options": ["United India", "Separate Muslim state", "British rule", "No government"],
-    "answer": "Separate Muslim state",
+    "question": "Sir Syed believed that Muslims lagged behind Hindus in:",
+    "options": ["Political awareness", "Educational and administrative skills", "Trade only", "Religious knowledge only"],
+    "answer": "Educational and administrative skills",
     "level": "average"
   },
   {
-    "question": "What was the Hindi-Urdu controversy about?",
-    "options": ["Language issue", "Religion issue", "Trade issue", "War issue"],
-    "answer": "Language issue",
-    "level": "average"
-  },
-  {
-    "question": "Which war weakened Muslims politically in India?",
-    "options": ["World War I", "1857 War", "World War II", "Cold War"],
-    "answer": "1857 War",
-    "level": "average"
-  },
-  {
-    "question": "What was the main cultural difference between Hindus and Muslims?",
-    "options": ["Food only", "Language only", "Religion and lifestyle", "Clothes only"],
-    "answer": "Religion and lifestyle",
-    "level": "average"
-  },
-  {
-    "question": "Which reform was introduced by Sir Syed?",
-    "options": ["Scientific education", "Military training", "Trade unions", "Farming"],
-    "answer": "Scientific education",
-    "level": "average"
-  },
-
-  {
-    "question": "What was the Lucknow Pact (1916)?",
-    "options": ["Agreement between Muslims and British", "Agreement between Congress and League", "War treaty", "Trade deal"],
-    "answer": "Agreement between Congress and League",
+    "question": "How did Sir Syed address Muslim fears about British rule after 1857?",
+    "options": ["Encouraged revolt", "Promoted loyalty and cooperation with British", "Ignored them", "Moved Muslims abroad"],
+    "answer": "Promoted loyalty and cooperation with British",
     "level": "medium"
   },
   {
-    "question": "Why did Muslims later oppose Congress?",
-    "options": ["Religious differences", "Political dominance of Hindus", "Economic issues", "All of these"],
-    "answer": "All of these",
+    "question": "Which movement is considered the foundation for Muslim political consciousness?",
+    "options": ["Khilafat Movement", "Aligarh Movement", "Pakistan Movement", "Non-Cooperation Movement"],
+    "answer": "Aligarh Movement",
     "level": "medium"
   },
   {
-    "question": "What was the Khilafat Movement?",
-    "options": ["Religious movement", "Political party", "Trade movement", "War"],
-    "answer": "Religious movement",
+    "question": "Sir Syed’s philosophy emphasized:",
+    "options": ["Religious isolation", "Modern education and rational thinking", "Political agitation", "Traditionalism only"],
+    "answer": "Modern education and rational thinking",
     "level": "medium"
   },
   {
-    "question": "Who led the Khilafat Movement?",
-    "options": ["Ali Brothers", "Jinnah", "Iqbal", "Sir Syed"],
-    "answer": "Ali Brothers",
+    "question": "How did Sir Syed influence Muslim participation in civil services?",
+    "options": ["Discouraged it", "Encouraged studying English and modern sciences to compete", "He only focused on trade", "He promoted military only"],
+    "answer": "Encouraged studying English and modern sciences to compete",
     "level": "medium"
   },
   {
-    "question": "What was the impact of Congress ministries (1937-39)?",
-    "options": ["Muslims felt secure", "Muslims felt oppressed", "No impact", "British left India"],
-    "answer": "Muslims felt oppressed",
+    "question": "Which British policy did Sir Syed strategically support?",
+    "options": ["Divide and rule", "Educational reforms and scholarships", "Land reforms only", "Trade restrictions"],
+    "answer": "Educational reforms and scholarships",
     "level": "medium"
   },
   {
-    "question": "What was the Lahore Resolution (1940)?",
-    "options": ["Demand for independence", "Demand for separate Muslim states", "End of war", "Trade agreement"],
-    "answer": "Demand for separate Muslim states",
+    "question": "Sir Syed’s efforts contributed to:",
+    "options": ["Muslims falling behind Hindus", "Muslim socio-political awakening and educational progress", "Decline in literacy", "Loss of identity"],
+    "answer": "Muslim socio-political awakening and educational progress",
     "level": "medium"
   },
   {
-    "question": "Where was Lahore Resolution passed?",
-    "options": ["Karachi", "Lahore", "Delhi", "Dhaka"],
-    "answer": "Lahore",
+    "question": "How did Sir Syed address religious extremism among Muslims?",
+    "options": ["By promoting rational and modern thinking", "By promoting revolt", "By ignoring education", "By focusing on trade"],
+    "answer": "By promoting rational and modern thinking",
     "level": "medium"
   },
   {
-    "question": "What role did Islam play in Muslim identity?",
-    "options": ["Minor role", "No role", "Central role", "Economic role"],
-    "answer": "Central role",
-    "level": "medium"
-  },
-  {
-    "question": "What was the main demand of Muslims after 1940?",
-    "options": ["Jobs", "Separate homeland", "Trade rights", "British support"],
-    "answer": "Separate homeland",
-    "level": "medium"
-  },
-  {
-    "question": "What is meant by socio-political dynamics?",
-    "options": ["Social and political changes", "Economic growth", "War tactics", "Religious laws"],
-    "answer": "Social and political changes",
-    "level": "medium"
-  },
-
-  {
-    "question": "How did British policies affect Muslims after 1857?",
-    "options": ["Favored them", "Ignored them", "Suppressed them", "Helped them"],
-    "answer": "Suppressed them",
+    "question": "What was the long-term political impact of Sir Syed’s Aligarh Movement?",
+    "options": ["Muslim unity and foundation for Muslim League", "Decline in literacy", "Hindus dominated Muslims", "British left India"],
+    "answer": "Muslim unity and foundation for Muslim League",
     "level": "hard"
   },
   {
-    "question": "Why did Sir Syed support British rule initially?",
-    "options": ["For power", "For Muslim progress", "For war", "For trade"],
-    "answer": "For Muslim progress",
+    "question": "Sir Syed Ahmed Khan’s educational philosophy emphasized:",
+    "options": ["Western education only", "Combining Islamic values with modern sciences", "Religious studies only", "Trade only"],
+    "answer": "Combining Islamic values with modern sciences",
     "level": "hard"
   },
   {
-    "question": "What was the role of education in Muslim revival?",
-    "options": ["No role", "Minor role", "Key role", "Negative role"],
-    "answer": "Key role",
+    "question": "Which social reform was promoted by Sir Syed?",
+    "options": ["Women’s education", "Military service only", "Trade monopoly", "Religious isolation"],
+    "answer": "Women’s education",
     "level": "hard"
   },
   {
-    "question": "Why was Two-Nation Theory important?",
-    "options": ["Economic growth", "Separate identity", "War strategy", "Trade policy"],
-    "answer": "Separate identity",
+    "question": "Sir Syed’s approach towards British rule was:",
+    "options": ["Cooperative to ensure Muslim advancement", "Rebellious", "Neutral", "Economic only"],
+    "answer": "Cooperative to ensure Muslim advancement",
     "level": "hard"
   },
   {
-    "question": "How did cultural differences lead to Pakistan movement?",
-    "options": ["Same traditions", "Different identities", "Economic growth", "British support"],
-    "answer": "Different identities",
+    "question": "How did Sir Syed influence Muslim representation in government?",
+    "options": ["Through education and debate", "Through revolt", "Through trade only", "Ignored politics"],
+    "answer": "Through education and debate",
     "level": "hard"
   },
   {
-    "question": "What was the main political concern of Muslims?",
-    "options": ["Minority rights", "Trade", "War", "Education only"],
-    "answer": "Minority rights",
+    "question": "Why is Sir Syed considered a pioneer of Muslim political consciousness?",
+    "options": ["He encouraged education, rational thinking, and awareness of rights", "He led military campaigns", "He promoted trade", "He focused on religion only"],
+    "answer": "He encouraged education, rational thinking, and awareness of rights",
     "level": "hard"
   },
   {
-    "question": "What was Direct Action Day (1946)?",
-    "options": ["Peace movement", "Political protest", "Trade strike", "Religious festival"],
-    "answer": "Political protest",
+    "question": "Which of the following was a key publication of Sir Syed?",
+    "options": ["Asar-us-Sanadid", "Now or Never Pamphlet", "Pakistan Resolution", "Tehzeeb-ul-Akhlaq"],
+    "answer": "Tehzeeb-ul-Akhlaq",
     "level": "hard"
   },
   {
-    "question": "What was the outcome of Direct Action Day?",
-    "options": ["Peace", "Riots", "British exit", "Unity"],
-    "answer": "Riots",
+    "question": "Sir Syed Ahmed Khan is known as the founder of:",
+    "options": ["Modern Muslim education in India", "Pakistan", "Indian National Congress", "Khilafat Movement"],
+    "answer": "Modern Muslim education in India",
     "level": "hard"
   },
   {
-    "question": "Why did Muslims reject united India?",
-    "options": ["Fear of domination", "Economic reasons", "Religious reasons", "All of these"],
-    "answer": "All of these",
+    "question": "How did Sir Syed prepare Muslims for modern governance?",
+    "options": ["By promoting Western education and administrative skills", "By focusing only on religious studies", "By avoiding politics", "Through trade only"],
+    "answer": "By promoting Western education and administrative skills",
     "level": "hard"
   },
   {
-    "question": "What was the significance of 1947?",
-    "options": ["War ended", "Pakistan created", "British arrived", "Trade began"],
-    "answer": "Pakistan created",
+    "question": "The Aligarh Movement is historically significant because:",
+    "options": ["It laid foundation for Muslim socio-political revival", "It led to immediate independence", "It promoted trade only", "It was a military movement"],
+    "answer": "It laid foundation for Muslim socio-political revival",
     "level": "hard"
   },
   {
-    "question": "Who coined the term 'Pakistan'?",
-    "options": ["Allama Iqbal", "Chaudhry Rahmat Ali", "Quaid-e-Azam", "Sir Syed Ahmad Khan"],
-    "answer": "Chaudhry Rahmat Ali",
+    "question": "Which group primarily benefited from Sir Syed’s educational reforms?",
+    "options": ["Indian Muslims", "Hindus", "British officials", "Traders only"],
+    "answer": "Indian Muslims",
     "level": "hard"
   },
   {
-    "question": "In which document was the name 'Pakistan' first proposed?",
-    "options": ["Allahabad Address", "Now or Never Pamphlet", "Lahore Resolution", "Lucknow Pact"],
-    "answer": "Now or Never Pamphlet",
+    "question": "Sir Syed emphasized loyalty to British rule to:",
+    "options": ["Gain support for Muslim education and progress", "Promote rebellion", "Trade monopoly", "Military expansion"],
+    "answer": "Gain support for Muslim education and progress",
     "level": "hard"
   },
   {
-    "question": "What was the main objective of the Cripps Mission (1942)?",
-    "options": ["Immediate independence", "Post-war dominion status", "Divide India", "Promote trade"],
-    "answer": "Post-war dominion status",
+    "question": "How did Sir Syed’s ideas influence the Muslim League?",
+    "options": ["Provided educational and political foundation", "No influence", "Opposed it", "Focused only on trade"],
+    "answer": "Provided educational and political foundation",
     "level": "hard"
   },
   {
-    "question": "Why did the Cripps Mission fail?",
-    "options": ["Congress rejected it", "Muslim League rejected it", "Both rejected it", "British withdrew"],
-    "answer": "Both rejected it",
+    "question": "What was Sir Syed’s contribution to Muslim intellectual awakening?",
+    "options": ["Encouraged critical thinking and rationality in education", "Encouraged religious extremism", "Avoided politics", "Promoted trade only"],
+    "answer": "Encouraged critical thinking and rationality in education",
     "level": "hard"
   },
   {
-    "question": "What was the Cabinet Mission Plan (1946)?",
-    "options": ["Plan for immediate partition", "Plan for united India with grouping", "Trade agreement", "Military alliance"],
-    "answer": "Plan for united India with grouping",
+    "question": "Why is Sir Syed called the 'Father of Modern Muslim India'?",
+    "options": ["For his reforms in education, social awareness, and rational thinking", "For leading military campaigns", "For creating Pakistan", "For trade reforms"],
+    "answer": "For his reforms in education, social awareness, and rational thinking",
     "level": "hard"
   },
   {
-    "question": "Why did the Cabinet Mission Plan fail?",
-    "options": ["Lack of British support", "Disagreement between Congress and League", "War outbreak", "Economic crisis"],
-    "answer": "Disagreement between Congress and League",
+    "question": "Sir Syed Ahmed Khan’s work laid the groundwork for:",
+    "options": ["Future Muslim political identity and Pakistan movement", "British withdrawal only", "Trade unions", "Military reforms"],
+    "answer": "Future Muslim political identity and Pakistan movement",
     "level": "hard"
   },
   {
-    "question": "What was the main demand of Muslims in the 1945-46 elections?",
-    "options": ["Jobs", "Education", "Pakistan", "Trade rights"],
-    "answer": "Pakistan",
+    "question": "Which social issue did Sir Syed address through education?",
+    "options": ["Muslim backwardness in administration and sciences", "Religious conflicts only", "Trade issues only", "Military skills only"],
+    "answer": "Muslim backwardness in administration and sciences",
     "level": "hard"
   },
   {
-    "question": "What role did elections of 1945-46 play?",
-    "options": ["Weak support for League", "Proved Muslim League as representative of Muslims", "Ended British rule", "Started war"],
-    "answer": "Proved Muslim League as representative of Muslims",
-    "level": "hard"
-  },
-  {
-    "question": "What was Mountbatten Plan (1947)?",
-    "options": ["Delay independence", "Partition India into two states", "Unite India", "Military rule"],
-    "answer": "Partition India into two states",
-    "level": "hard"
-  },
-  {
-    "question": "What was the ideological basis for Pakistan according to Quaid-e-Azam?",
-    "options": ["Economic growth", "Islamic principles", "Military strength", "Industrialization"],
-    "answer": "Islamic principles",
+    "question": "Which of these best summarizes Sir Syed Ahmed Khan’s contribution?",
+    "options": ["Educational reform, rational thinking, loyalty to British for Muslim advancement", "Trade expansion only", "Military leadership only", "Religious isolation only"],
+    "answer": "Educational reform, rational thinking, loyalty to British for Muslim advancement",
     "level": "hard"
   }
 ]
