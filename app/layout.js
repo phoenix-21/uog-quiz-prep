@@ -1,12 +1,14 @@
+import "./globals.css"; // 🔴 THIS LINE IS REQUIRED
+
 export const metadata = {
-  title: "Academic Quiz",
-  description: "Minimal Quiz App",
+  title: "Quiz App",
+  description: "Academic Quiz",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className="bg-gray-50 text-gray-900">
+      <body>
         {children}
       </body>
     </html>
