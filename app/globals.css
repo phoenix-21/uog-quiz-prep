@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth progress bar animation */
+.progress-bar {
+  transition: width 1s linear;
+}
